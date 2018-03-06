@@ -74,13 +74,14 @@
 body {
     overflow-x: hidden;
     height:500%;
-    /*background: url("http://supernovathemes.com/wp-content/themes/supernonvathemes/images/bg/b17.png") 100% 100% no-repeat;*/]
     background-attachment: fixed;
     background-size:cover;
 background-position: center center;
 background-repeat:no-repeat;
-background-color:#192327;
+/*background-color:#192327;*/
+background-color: #4BD8BB;
 color: white;
+
 }
 .home {
     /*margin-top: 5%;*/
